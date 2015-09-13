@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>865A4E51-775D-4A0B-A977-49B28FE642EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Breeze</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7203E7548606F2E50C2DF5B5CA908F32F418C3B1</key>
+		<string>github.com:SebastianGuerreroCardenas/Breeze.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Breeze/Breeze.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7203E7548606F2E50C2DF5B5CA908F32F418C3B1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:SebastianGuerreroCardenas/Breeze.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7203E7548606F2E50C2DF5B5CA908F32F418C3B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7203E7548606F2E50C2DF5B5CA908F32F418C3B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Breezegit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
